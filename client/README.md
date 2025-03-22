@@ -173,7 +173,7 @@ Dans screen :
 
 ---
 
-## 📝 Notes
+## Notes
 
 - Le script utilise une caméra USB, un capteur d’humidité branché sur le GPIO 21, un relai pour la pompe sur GPIO 14, et un écran LCD via I2C (`0x27`).
 - Le serveur Flask doit être configuré et en ligne avec les bons endpoints.
